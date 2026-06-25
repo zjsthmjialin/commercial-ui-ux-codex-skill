@@ -1,5 +1,7 @@
 # Commercial UI/UX Codex Skill
 
+Chinese documentation: [README.zh-CN.md](README.zh-CN.md)
+
 `commercial-ui-ux` is a Codex skill for designing, reviewing, repairing, and implementing commercial UI/UX/GUI surfaces.
 
 It helps Codex prioritize business tasks, user journeys, workflow states, interaction risk, existing design systems, accessibility, and verification before visual polish. It is not a color-palette generator, a skinning prompt, or a component-library template.
@@ -36,10 +38,11 @@ Do not use it as the primary tool for pure logo design, standalone illustration,
 
 ## Included Files
 
-Core skill entry:
+Core skill files:
 
 - `SKILL.md`
 - `SKILL.zh-CN.md`
+- `README.zh-CN.md`
 
 User-facing documentation:
 

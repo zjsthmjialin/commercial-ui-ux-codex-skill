@@ -10,6 +10,7 @@ Status: public release candidate for the installable `commercial-ui-ux` Codex sk
 - Added core commercial UI/UX/GUI rules, boundaries, design constitution, usage guide, quality gates, visual strategy inference, industry taxonomy, and industry template library.
 - Added 18 top-level industry categories and 54 reusable UI/GUI scenario templates.
 - Added public installation README for the core skill package.
+- Added Chinese public README for installation and usage guidance.
 
 ### Changed
 
