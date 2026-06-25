@@ -11,6 +11,7 @@ Status: public release candidate for the installable `commercial-ui-ux` Codex sk
 - Added 18 top-level industry categories and 54 reusable UI/GUI scenario templates.
 - Added public installation README for the core skill package.
 - Added Chinese public README for installation and usage guidance.
+- Added public author contact information to README files.
 
 ### Changed
 

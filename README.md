@@ -6,6 +6,12 @@ Chinese documentation: [README.zh-CN.md](README.zh-CN.md)
 
 It helps Codex prioritize business tasks, user journeys, workflow states, interaction risk, existing design systems, accessibility, and verification before visual polish. It is not a color-palette generator, a skinning prompt, or a component-library template.
 
+## Contact
+
+- Author: `zjsthm`
+- Email: `zjsthm@gmail.com`
+- WeChat: `63656299`
+
 ## Install
 
 Clone this repository into your Codex skills directory as `commercial-ui-ux`.
