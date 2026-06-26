@@ -4,6 +4,8 @@
 
 它帮助 Codex 优先处理业务任务、用户路径、工作流状态、交互风险、既有设计系统、无障碍和验证，而不是只生成配色方案、视觉皮肤或组件库模板。
 
+项目说明与宣传文档：[docs/08-project-overview.zh-CN.md](docs/08-project-overview.zh-CN.md)
+
 ## 联系作者
 
 - 作者：`zjsthm`
@@ -56,6 +58,7 @@ git clone https://github.com/zjsthmjialin/commercial-ui-ux-codex-skill ~/.codex/
 - `docs/03-design-constitution.md`
 - `docs/06-quality-gates.md`
 - `docs/07-visual-strategy-inference.md`
+- `docs/08-project-overview.zh-CN.md`
 - `docs/09-industry-taxonomy.md`
 - `docs/10-industry-template-library.md`
 
@@ -64,7 +67,7 @@ git clone https://github.com/zjsthmjialin/commercial-ui-ux-codex-skill ~/.codex/
 - `VERSION`
 - `CHANGELOG.md`
 
-公开安装包只保留普通使用所需的核心文件，不包含维护脚本、评测轮次、生成截图、本地发布产物或历史交接记录。
+公开安装包只保留普通使用所需的核心文件，不包含 PDF 宣传文件、维护脚本、评测轮次、生成截图、本地发布产物或历史交接记录。
 
 ## 典型请求
 

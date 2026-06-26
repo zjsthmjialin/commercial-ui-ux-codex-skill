@@ -12,11 +12,13 @@ Status: public release candidate for the installable `commercial-ui-ux` Codex sk
 - Added public installation README for the core skill package.
 - Added Chinese public README for installation and usage guidance.
 - Added public author contact information to README files.
+- Added a Chinese Markdown project overview for public reading and promotion.
+- Added repository ignore rules to prevent PDF promotional files and local artifacts from being committed.
 
 ### Changed
 
 - Kept the public package focused on ordinary skill use.
-- Excluded maintainer scripts, generated outputs, evaluation packages, screenshots, and historical handoff records from the public installable package.
+- Excluded PDF promotional files, maintainer scripts, generated outputs, evaluation packages, screenshots, and historical handoff records from the public installable package.
 - Clarified that this skill is not a color palette generator, pure skinning prompt, or visual styling catalog.
 - Clarified existing-system repair behavior: preserve information architecture, component semantics, routes, states, density, and visual tokens unless the user asks for redesign.
 

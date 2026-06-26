@@ -1,0 +1,17 @@
+# Local and generated artifacts are intentionally excluded from the public skill package.
+*.pdf
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+output/
+tmp/
+release/
+screenshots/
+evaluation/
+evaluations/
+
+*.log
+.DS_Store
+Thumbs.db

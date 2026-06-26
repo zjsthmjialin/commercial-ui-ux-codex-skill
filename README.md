@@ -6,6 +6,8 @@ Chinese documentation: [README.zh-CN.md](README.zh-CN.md)
 
 It helps Codex prioritize business tasks, user journeys, workflow states, interaction risk, existing design systems, accessibility, and verification before visual polish. It is not a color-palette generator, a skinning prompt, or a component-library template.
 
+Project overview in Chinese: [docs/08-project-overview.zh-CN.md](docs/08-project-overview.zh-CN.md)
+
 ## Contact
 
 - Author: `zjsthm`
@@ -58,6 +60,7 @@ User-facing documentation:
 - `docs/03-design-constitution.md`
 - `docs/06-quality-gates.md`
 - `docs/07-visual-strategy-inference.md`
+- `docs/08-project-overview.zh-CN.md`
 - `docs/09-industry-taxonomy.md`
 - `docs/10-industry-template-library.md`
 
@@ -66,7 +69,7 @@ Release metadata:
 - `VERSION`
 - `CHANGELOG.md`
 
-This public package intentionally excludes maintainer scripts, evaluation rounds, generated screenshots, local release artifacts, and historical handoff records.
+This public package intentionally excludes PDF promotional files, maintainer scripts, evaluation rounds, generated screenshots, local release artifacts, and historical handoff records.
 
 ## Typical Prompt
 
